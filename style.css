@@ -1,0 +1,43 @@
+body{
+    margin:0;
+    padding-top: 150px;
+    text-align: center;
+background-color: cyan;
+}
+
+.profile{
+  width:175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    }
+#welcome{
+    color:skyblue;
+    padding: 100px;
+    background: linear-gradient(yellow, pink);
+}
+
+#bio{
+  padding: 50px;
+     background: linear-gradient(orange, green);
+    
+}
+
+h1{
+ font-size: 40px;
+    font-family: inherit;
+    font-weight: 300;
+    color: orangered;
+    
+}
+h2{
+ font-size: 30px;
+    font-family: cursive;
+    font-weight: 300;
+    color: aquamarine;
+    
+}
+p{
+ font-size: 17px;   
+font-family: fantasy; 
+    
+}
